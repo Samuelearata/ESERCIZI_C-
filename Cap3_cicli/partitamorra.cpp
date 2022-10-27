@@ -9,7 +9,8 @@ int main(){
         
 		
 	do
-		{cout<<"Primo utente(carta, forbice o sasso)\t";
+		{
+		cout<<"Primo utente(carta, forbice o sasso)\t";
         cin>>a;
         cout<<endl,
         cout<<"Secondo utente(carta, forbice o sasso)\t";
