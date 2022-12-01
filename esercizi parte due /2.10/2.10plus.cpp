@@ -5,7 +5,7 @@ int main() {
     cout << "inserisci la temperatura"<<endl;
     cin >> temp;
     switch (temp){
-        case temp<=-20 && temp <= 0;
+        case <=-20 &&  <= 0;
         cout << "freddo dannato"<<endl;
         break;
         case temp<=1 && temp<=15;{
